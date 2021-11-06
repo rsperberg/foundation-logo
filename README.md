@@ -1,4 +1,4 @@
-# foundation-logo
+# Foundation Logo
 
 A font containing the specific design of letters used for the Foundation logo, in the Apple TV+ series based on the Isaac Asimov books.
 
@@ -8,7 +8,7 @@ One surprising aspect of the Foundation logo, is that the Apple TV+ series has u
 
 <img src="logos/Foundation_Logo_version_w_dotted_O.jpg" alt="The Foundation logo used in episode 1, with a dot above each O" title="The Foundation logo used in episode 1, with a dot above each O">
 
-<img src="logos/Foundation_Logo_version_w_undotted_O.jpg" alt="An alternate version of the Foundation logo, with different F, A and N designs and no dot for the O" title="An alternate version of the Foundation logo, with different F, A and N designs and no dot for the Os">
+<img src="logos/Foundation_Logo_version_w_undotted_O.jpg" alt="An alternate version of the Foundation logo, with different F, A and N designs and no dot for the O" title="An alternate version of the Foundation logo, with slightly different A and N designs, no dot for the Os and an interrupted stem in the F, which does not extend to the top arm">
 
 And beyond that, the type design used in the title sequence is also used, when “Previously on Foundation” is announced.
 
