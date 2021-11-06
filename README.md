@@ -14,8 +14,5 @@ And beyond that, the type design used in the title sequence is also used, when �
 
 <img src="logos/Foundation_Logo_previously_on_foundation.jpg" alt="Seen each week at episode beginning, 'Previously on Foundation' using characters that form the basis of the Foundation One and Foundation Titles fonts" title= "Seen each week at episode beginning, 'Previously on Foundation' using characters that form the basis of the Foundation One and Foundation Titles fonts">
 
-The characters used in “Foundation” in this image form the basis of the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> font and the other text is the basis for the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation Titles repo">Foundation One</a> font, both OFL-licensed and both here on Github.
+The characters used in “Foundation” in this image form the basis of the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> font and the other text is the basis for the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation Titles repo">Foundation One</a> font, both OFL-licensed and both here on GitHub.  A <a href="https://github.com/rsperberg/foundation-screen" title="Jump to Foundation Screen repo">font</a> based on the type design seen on computer screens in Foundation is also planned.
 
-
-
- 
