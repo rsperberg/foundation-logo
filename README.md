@@ -17,7 +17,7 @@ And beyond that, the type design used in the title sequence is also used, when �
 The characters used in the word “Foundation” in this image form the basis of the <a href="https://github.com/rsperberg/foundation-titles-hand" title="Jump to Foundation Titles repo">Foundation Titles</a> font, and the other text is the basis for the <a href="https://github.com/rsperberg/foundation-one" title="Jump to Foundation Titles repo">Foundation One</a> font, both OFL-licensed and both here on GitHub.  A <a href="https://github.com/rsperberg/foundation-screen" title="Jump to Foundation Screen repo">font</a> based on the type design seen on computer screens in Foundation is also planned.
 
 
-Here is version 0.3 of Foundation Logo, with caps only but including alternate versions of E, F, K, P, S, W, X, Y and Z (full Basic Latin codebase).
+Here is version 0.3 of Foundation Logo, with caps only but including alternate versions of E, F, K, P, S, W, X, Y and Z (coverage of the full Basic Latin codeblock).
 
 <img src="samples/Foundation_Logo_v0.3_charset.jpg" alt="All Foundation Logo characters displayed, with two versions of nine characters" title="Foundation Logo version 0.3 character set, matching the logo design first used in the prerelease trailers">
 
