@@ -1,0 +1,43 @@
+FONTLOG for the Foundation Logo font
+
+This file provides detailed information on the Foundation Logo font software.  This information should be distributed along with the Foundation Logo font and any derivative works.
+
+Basic Font Information
+
+Foundation Logo is based on the font design used for the logo of Foundation, the Apple TV+ series based on the Isaac Asimov books.  The initial release is based on the logo used in the pre-release trailers, the promotional material from Apple TV+ and the official podcast. A second, thinner version of the logo, in which different designs are used for four of the seven letters that spell “foundation,” has also been used and appears on material from the production company.
+
+The stylized design for the Foundation logo appears only in the logo itself, although three “bonus content” videos from season one present titles and onscreen identifications in a hybrid font that appears to be based on Posterama (a face designed by Jim Ford for Monotype).  In the titles, the hybrid uses the logo’s D and N characters and the A, although without the dot to the side of the A used in the logo.  The O is also dotless.  The onscreen credits forgo the stemless D of the logo but introduce a stemless E, a design that seems based on the half-stem F of the second logo design.  
+
+Foundation Logo is a Unicode typeface family that supports all languages that use the Latin script and its variants, and could be expanded to support other scripts.
+
+More specifically, this release of version 0.3 supports the following Unicode ranges:  U+0020 - U+007D, U+2013 - U+201D
+
+This release contains the Basic Latin codeblock characters (with the lowercase glyphs being duplicates or variants of the corresponding uppercase characters), as well as various symbols and punctuation located elsewhere, 99 characters (or 101 glyphs, including spaces) in all.
+
+Documentation and source files can be found at github.com/rsperberg/foundation-logo
+
+A related font OFL based on the title sequence of Foundation is located at github.com/rsperberg/foundation-titles-hand; and a font based on the onscreen design used when indicating a change in context, time or location at github.com/rsperberg/foundation-one
+
+Foundation Logo was created using iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at 2ttf.com.  The font can also be downloaded from 2ttf.com/IwnW8mBM8E (the Gallery at 2ttf.com hosts some 65,000 fonts created with iFontMaker that are available for downloading).
+
+To contribute to the project, visit the Github page.
+
+ChangeLog
+
+10-11 November 2021 (Roger Sperberg) Foundation Logo version 0.3
+- created Github repository with ttf and source files, OFL and other information files and samples
+- initial release to public (but not Github release)
+
+Acknowledgments
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+N: Roger Sperberg
+E: glypheryfonts@gmail.com
+W: http://glyphery.com
+D: Designer - made original Roman glyphs from character design used in the logo of Foundation, an Apple TV+ series (logo designer unknown)
+
+Glyphery is a font foundry created by Roger Sperberg, located on the web at glyphery.com.
+
+——
+© 2021 GitHub, Inc.
