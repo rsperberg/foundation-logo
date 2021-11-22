@@ -20,6 +20,6 @@ Here is version 0.3 of Foundation Logo, with caps only but including alternate v
 
 <img src="samples/Foundation_Logo_v0.3_charset.jpg" alt="All Foundation Logo characters displayed, with two versions of nine characters" title="Foundation Logo version 0.3 character set, matching the logo design first used in the prerelease trailers">
 
-The source .ifm2archive files are in the file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at <a href="http://2ttf.com/" title="Jump to 2ttf.com">2ttf.com</a>. To install Foundation Logo on an iPhone or iPad, use the command “Install (for iOS)” at <a href="https://2ttf.com/BW7GxybNOS0" title="Jump to 2ttf.com/BW7GxybNOS0">2ttf.com/BW7GxybNOS0</a>.
+The source .ifm2archive files are in the file format used by iFontMaker, the iPad font-design tool made by Eiji and Tom, Inc., which you can find at <a href="http://2ttf.com/" title="Jump to 2ttf.com">2ttf.com</a>. To install Foundation Logo on an iPhone or iPad, use the command “Install (for iOS)” at <a href="https://2ttf.com/IwnW8m5BM8E" title="Jump to 2ttf.com/IwnW8m5BM8E">2ttf.com/IwnW8m5BM8E</a>.
 
 
